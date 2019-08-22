@@ -1,0 +1,6 @@
+Detection-of-Spacer-Precursors-Formed-In-Vivo-During-Primed-CRISPR-Adaptation
+Custom code used for read alignment in a paper by Shiriaeva et. al (2019).
+
+Analysis was performed on a laptop with the following technical details: Processor 2.8 GHz Intel Core i7; RAM 16 GB DDR4 2400; Memory Speed 2400 MHz; Flash Memory Size 256 GB; Hard Drive 1256 GB flash_memory_solid_state; Hard Drive Rotational Speed 7200.00.
+
+Software: Windows 10; R version 3.4.2 (2017-09-28) - installation time is ~ 2 minutes; each package is about 1 min; Unipro UGENE v1.28.1 (64-bit version) - installation time is less than 10 minutes.
