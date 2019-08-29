@@ -9,7 +9,6 @@ library(ShortRead) #load the package
 
 rm(list=ls())
 
-###############check if the 3' barcode is true
 setwd("D:/OneDrive/Results/Oligo transformation/HTS_new/1_2") #set way to the folder with a fastq file
 reads=readFastq("G33_C33_OligoTransformation_Rep1") #upload the fastq file
 length(reads) ###initial number of reads
