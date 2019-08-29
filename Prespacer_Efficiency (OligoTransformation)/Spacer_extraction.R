@@ -95,8 +95,7 @@ for (i in 1:nrow(stat)){
   }
   
 }
-M1<-For
-M1<-DNAStringSet(M1_R1[-1]) #M1 contains your reads
+M1<-For #M1 contains your reads
 
 rm(list=setdiff(ls(),c("M1")))
 
