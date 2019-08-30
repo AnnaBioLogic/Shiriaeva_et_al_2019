@@ -11,7 +11,7 @@ Library = Single-end
 Press "Start"
 Overall, it takes 1.5 min to map the Demo reads to the genome on my laptop. Once the procedure is complete close Ugene and go back to the R script.
 
-Write the name of your bam file in line 173. Run lines 174-211 of the code (takes ~3 min for the Demo reads). Only reads with unique alignment will be kept.
+Write the name of your bam file in line 199. Run lines 174-211 of the code (takes ~3 min for the Demo reads). Only reads with unique alignment will be kept.
 You will get a picture of alignment near the PPS (red line=PPS). Not normalized coverage for each coordinate along the genome is shown.
 
 
